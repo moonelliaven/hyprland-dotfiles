@@ -12,7 +12,7 @@ A dark, minimal desktop setup focused on a clean workflow, useful shortcuts, and
 
 ## Preview
 
-![Hyprland Preview](screenshots/desktop.png)
+![Hyprland Preview](preview/image.png)
 
 ## What's Included
 
